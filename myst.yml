@@ -3,13 +3,8 @@ version: 1
 project:
   id: 108ce1c4-a5c3-453c-80f7-5bc59004b277
  
-title: DiDaDoDa Practicumboek
- 
-# description:
- 
-# keywords: []
- 
-# authors: []
+  title: DiDaDoDa Practicumboek 
+
   github: https://github.com/Natuurkunde/didadoda
  
 # To autogenerate a Table of Contents, run "myst init --write-toc"
